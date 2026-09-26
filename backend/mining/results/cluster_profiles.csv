@@ -1,0 +1,4 @@
+cluster_id,operational_interpretation,observation_count,network_share_pct,latency_ms,throughput_mbps,packet_loss_pct,call_drop_rate_pct,signal_strength_dbm,handover_success_pct,active_connections
+0,Weak Signal / Cell Edge (Coverage Gap),43,1.19,12.54,368.14,0.7,0.52,-100.2,70.12,302.12
+1,Healthy Baseline Operation (Normal QoS),3517,97.69,17.88,286.47,0.9,0.61,-57.41,97.51,289.38
+2,Severe Degradation (Critical Congestion / High Drop Rate),40,1.11,285.03,270.5,19.05,11.87,-103.48,97.2,275.32

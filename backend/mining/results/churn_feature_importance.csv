@@ -1,0 +1,34 @@
+feature,dt_importance,lr_coefficient,lr_abs_coef,association_direction,relative_dt_rank,relative_lr_rank
+Contract_Two year,0.40903319634002866,-1.5258762712412208,1.5258762712412208,Associated with lower predicted churn probability (retention),1,1
+Contract_One year,0.2558054492731475,-0.7318461887133337,0.7318461887133337,Associated with lower predicted churn probability (retention),2,4
+InternetService_Fiber optic,0.11259386624188676,1.19494942052313,1.19494942052313,Associated with higher predicted churn probability,3,2
+tenure,0.09557396078879915,-1.0256828088505898,1.0256828088505898,Associated with lower predicted churn probability (retention),4,3
+StreamingMovies_Yes,0.03570392820532396,0.4203653137419476,0.4203653137419476,Associated with higher predicted churn probability,5,6
+monthly_charges,0.020572404519790772,-0.4235274328236802,0.4235274328236802,Associated with lower predicted churn probability (retention),6,5
+total_charges,0.01981725315712248,0.195297906690821,0.195297906690821,Associated with higher predicted churn probability,7,18
+PaymentMethod_Electronic check,0.019143642320105774,0.3935974061720384,0.3935974061720384,Associated with higher predicted churn probability,8,9
+TechSupport_No internet service,0.015374774684431424,-0.16986469397100523,0.16986469397100523,Associated with lower predicted churn probability (retention),9,19
+PhoneService_Yes,0.012128422623947505,-0.31357523507919627,0.31357523507919627,Associated with lower predicted churn probability (retention),10,13
+PaperlessBilling_Yes,0.002410643903037181,0.34373167504620117,0.34373167504620117,Associated with higher predicted churn probability,11,11
+gender_Male,0.0018424579423787254,0.027139741055331353,0.027139741055331353,Negligible direct directional effect,12,31
+tenure_band_13-24 months,0.0,-0.4023804125807837,0.4023804125807837,Associated with lower predicted churn probability (retention),13,7
+StreamingTV_Yes,0.0,0.3978979199044449,0.3978979199044449,Associated with higher predicted churn probability,13,8
+MultipleLines_Yes,0.0,0.35538995851642086,0.35538995851642086,Associated with higher predicted churn probability,13,10
+OnlineSecurity_Yes,0.0,-0.31768639250855957,0.31768639250855957,Associated with lower predicted churn probability (retention),13,12
+tenure_band_49-72 months,0.0,0.28885388999111244,0.28885388999111244,Associated with higher predicted churn probability,13,14
+TechSupport_Yes,0.0,-0.24563431821485876,0.24563431821485876,Associated with lower predicted churn probability (retention),13,15
+Dependents_Yes,0.0,-0.21295485786329854,0.21295485786329854,Associated with lower predicted churn probability (retention),13,16
+tenure_band_25-48 months,0.0,-0.20116446262758195,0.20116446262758195,Associated with lower predicted churn probability (retention),13,17
+InternetService_No,0.0,-0.16986469397100523,0.16986469397100523,Associated with lower predicted churn probability (retention),13,19
+OnlineSecurity_No internet service,0.0,-0.16986469397100523,0.16986469397100523,Associated with lower predicted churn probability (retention),13,19
+OnlineBackup_No internet service,0.0,-0.16986469397100523,0.16986469397100523,Associated with lower predicted churn probability (retention),13,19
+DeviceProtection_No internet service,0.0,-0.16986469397100523,0.16986469397100523,Associated with lower predicted churn probability (retention),13,19
+StreamingTV_No internet service,0.0,-0.16986469397100523,0.16986469397100523,Associated with lower predicted churn probability (retention),13,19
+StreamingMovies_No internet service,0.0,-0.16986469397100523,0.16986469397100523,Associated with lower predicted churn probability (retention),13,19
+SeniorCitizen_1,0.0,0.16171544288488893,0.16171544288488893,Associated with higher predicted churn probability,13,26
+MultipleLines_No phone service,0.0,-0.12373107637783104,0.12373107637783104,Associated with lower predicted churn probability (retention),13,27
+OnlineBackup_Yes,0.0,-0.07493464474476247,0.07493464474476247,Associated with lower predicted churn probability (retention),13,28
+DeviceProtection_Yes,0.0,0.06283620815759881,0.06283620815759881,Associated with higher predicted churn probability,13,29
+PaymentMethod_Mailed check,0.0,0.037235664741806146,0.037235664741806146,Negligible direct directional effect,13,30
+Partner_Yes,0.0,0.025977752876690633,0.025977752876690633,Negligible direct directional effect,13,32
+PaymentMethod_Credit card (automatic),0.0,0.014872570667200338,0.014872570667200338,Negligible direct directional effect,13,33

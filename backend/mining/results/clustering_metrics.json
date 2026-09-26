@@ -1,0 +1,32 @@
+{
+  "tested_k_values": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "selected_k": 3,
+  "metrics": [
+    {
+      "k": 2,
+      "inertia": 18666.45,
+      "silhouette_score": 0.8045
+    },
+    {
+      "k": 3,
+      "inertia": 15341.73,
+      "silhouette_score": 0.7316
+    },
+    {
+      "k": 4,
+      "inertia": 12222.78,
+      "silhouette_score": 0.3002
+    },
+    {
+      "k": 5,
+      "inertia": 10444.4,
+      "silhouette_score": 0.321
+    }
+  ],
+  "selection_rationale": "K=3 was selected for the analytical demonstration. While K=2 produces the highest mathematical silhouette score (0.8045) by separating healthy observations from severe anomalies, K=3 (silhouette 0.7316) provides superior operational utility by cleanly disaggregating: (1) Healthy baseline network traffic, (2) Weak signal coverage-edge observations, and (3) Severe network degradation incidents with high call drop and latency spikes."
+}
